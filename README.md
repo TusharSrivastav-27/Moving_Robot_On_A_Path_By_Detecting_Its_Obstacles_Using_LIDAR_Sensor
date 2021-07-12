@@ -7,4 +7,6 @@ Project Working Video:-    https://www.linkedin.com/posts/tushar-srivastav-82a50
 NOTE: I have only uploaded code of this project because it's model and other things are subject to copyright of Eyantra-IIT Bombay.
 
 These are images of bot, path and obstacle:-
+![image](https://user-images.githubusercontent.com/71928146/125317458-a4697780-e356-11eb-8ecc-c4d9384476fd.png)
+
 ![image](https://user-images.githubusercontent.com/71928146/125317060-53f21a00-e356-11eb-9290-8d1af7935591.png)
